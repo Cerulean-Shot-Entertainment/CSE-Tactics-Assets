@@ -1,11 +1,11 @@
 {
     "lain": "./lain.png",
-    "grass1-small": "grass1-63x65.png",
-    "grass2-small": "grass2-63x65.png",
-    "grass3-small": "grass3-63x65.png",
-    "grass4-small": "grass4-63x65.png",
-    "grass1-large": "grass1-126x130.png",
-    "grass2-large": "grass2-126x130.png",
-    "grass3-large": "grass3-126x130.png",
-    "grass4-large": "grass4-126x130.png"
+    "grass1-small": "./tiles/grass1-63x65.png",
+    "grass2-small": "./tiles/grass2-63x65.png",
+    "grass3-small": "./tiles/grass3-63x65.png",
+    "grass4-small": "./tiles/grass4-63x65.png",
+    "grass1-large": "./tiles/grass1-126x130.png",
+    "grass2-large": "./tiles/grass2-126x130.png",
+    "grass3-large": "./tiles/grass3-126x130.png",
+    "grass4-large": "./tiles/grass4-126x130.png"
 }
