@@ -7,5 +7,7 @@
     "grass1-large": "./tiles/grass1-126x130.png",
     "grass2-large": "./tiles/grass2-126x130.png",
     "grass3-large": "./tiles/grass3-126x130.png",
-    "grass4-large": "./tiles/grass4-126x130.png"
+    "grass4-large": "./tiles/grass4-126x130.png",
+    "slime-small": "./sprites/slime-64x64.png",
+    "slime-large": "./sprites/slime-128x128.png"
 }
