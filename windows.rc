@@ -14,7 +14,7 @@ BEGIN
       VALUE "LegalCopyright", "Cerulean Shot Entertainment Team"
       VALUE "OriginalFilename", "cse-tactics.exe"
       VALUE "ProductName", "CSE Tactics"
-      VALUE "ProductVersion", "1.0"
+      VALUE "ProductVersion", "0.1"
     END
   END
   BLOCK "VarFileInfo"
