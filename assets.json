@@ -10,5 +10,6 @@
     "slime-small": "./sprites/slime-64x64.png",
     "slime-large": "./sprites/slime-128x128.png",
     "dirt1-small": "./tiles/dirt1-63x65.png",
-    "dirt1-large": "./tiles/dirt1-126x130.png"
+    "dirt1-large": "./tiles/dirt1-126x130.png",
+    "vcr_osd_mono": "./VCR_OSD_MONO.ttf"
 }
